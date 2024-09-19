@@ -6,6 +6,7 @@ public class Runner {
         System.out.println("versiyon 2nin devami");
         System.out.println("versiyon 3");
         System.out.println("versiyon 4");
+        //remote degisiklik
         //hgcvhjbjkln
         //jkhvkbl
     }
